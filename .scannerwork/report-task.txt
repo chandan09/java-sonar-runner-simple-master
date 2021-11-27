@@ -1,0 +1,6 @@
+projectKey=jenkins_sonar
+serverUrl=http://13.233.26.37:9000
+serverVersion=9.2.0.49834
+dashboardUrl=http://13.233.26.37:9000/dashboard?id=jenkins_sonar
+ceTaskId=AX1hMc1TC1B1AIXH25QU
+ceTaskUrl=http://13.233.26.37:9000/api/ce/task?id=AX1hMc1TC1B1AIXH25QU
